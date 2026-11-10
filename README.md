@@ -34,6 +34,8 @@ More Apple Shortcuts automation projects, including GitHub Repository Research A
 ## About This Portfolio
 
 This portfolio demonstrates practical experience in designing, building, testing, and troubleshooting productivity automations using macOS tools.
+
+
 ## GitHub Research Assistant
 
 **Technology:** Apple Shortcuts, GitHub REST API, macOS
@@ -52,3 +54,19 @@ Built a macOS automation that retrieves repository information from GitHub using
 - JSON data extraction
 - Workflow automation
 - API response handling
+
+## Smart Google Search
+
+**Technology:** Apple Shortcuts, macOS
+
+### Project Overview
+Developed a macOS automation that simplifies Google searches by accepting user input, encoding search terms, and opening the corresponding search results in a web browser.
+
+### Key Features
+- Accepts search queries through a text prompt.
+- Uses URL encoding to format search terms.
+- Automatically generates Google search URLs.
+- Opens search results in the browser.
+
+### Skills Demonstrated
+Workflow automation, user input handling, URL encoding, and productivity optimization.
